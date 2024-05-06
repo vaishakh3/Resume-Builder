@@ -29,7 +29,7 @@
     "reactstrap": "^8.9.0",
     "resume-builder": "file:.."
   },
-  "proxy": "http://localhost:10000/",
+  "proxy": "http://localhost:5000/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
