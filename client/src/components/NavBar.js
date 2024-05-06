@@ -65,7 +65,7 @@ const NavBar = () => {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" className={classes.title}>
-          Resume Builder
+          PlaceX - Resume Builder
         </Typography>
         {user?.email ? (
           <IconButton onClick={handleClickOpen}>
